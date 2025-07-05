@@ -58,8 +58,6 @@
 
 ---
 
----
-
 ### 🎯 Focus Areas as Flutter Developer
 
 - 📱 Flutter app development (iOS & Android)
